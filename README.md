@@ -6,6 +6,6 @@ Aplicación DJango de ejemplo.
 
 Python 3.7.0
 
-Pip 18.0
+Pip 18.1
 
 Django 2.1.3
